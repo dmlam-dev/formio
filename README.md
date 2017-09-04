@@ -30,6 +30,11 @@ Running
 -------------------
 You can then download this repository, navigate to the folder in your Terminal, and then type the following.
 
+...
+
+1. npm install --global --production windows-build-tools
+
+
 ```
 npm install
 npm start
